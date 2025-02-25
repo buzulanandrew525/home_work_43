@@ -1,5 +1,4 @@
 import React, { createContext, useContext } from 'react';
-import './App.css'
 
 const ColorContext = createContext('червоний');
 const MaterialContext = createContext('залізо');
